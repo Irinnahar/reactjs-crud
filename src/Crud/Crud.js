@@ -24,8 +24,6 @@ class Crud extends Component{
           
        }
        
-       
-
        this.setState({
            datas:datas,
            act:0
@@ -57,7 +55,7 @@ class Crud extends Component{
         })
     }
     
-    // constructor 
+    // constructor function
     constructor(){
         super();
 
